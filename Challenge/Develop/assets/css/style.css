@@ -33,7 +33,7 @@ h3 {
 h4 {
     font-size: 20px;
 }
-
+/* changes the color of the 'seo' in 'Horiseon' */
 .seo {
     color: #d9dcd6;
 }
@@ -60,6 +60,7 @@ p {
     font-size: 16px;
 }
 
+/* large center image */
 .splashImage {
     height: 800px;
     width: 100%;
@@ -70,11 +71,13 @@ p {
     
 }
 
+/* images will be on the left side of their container */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* images will be on the left side of their container */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -86,6 +89,17 @@ main {
     margin-left: 20px;
 }
 
+/* container for main contents */
+.card {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* side bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -97,6 +111,7 @@ main {
     background-color: #2589bd;
 }
 
+/* container for the sidebar contents */
 .sideCard {
     margin-bottom: 32px;
     color: #ffffff;
@@ -106,15 +121,6 @@ main {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.card {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
 }
 
 img {
