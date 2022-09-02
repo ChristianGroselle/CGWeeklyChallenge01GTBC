@@ -7,16 +7,16 @@ This project focused on cleaning up and making the HTML and CSS code behind an e
 
 This was done by:
 
--Using semantic elements
--Combining CSS selectors
--Removing reduntant code
+-Using semantic elements\
+-Combining CSS selectors\
+-Removing reduntant code\
 -Leaving comments for future devs
 
 This was done because:
 
--Accessiblity is important for people with disabilities
--Search engines prioritise accessible websites
--The code is easier for the next dev to work on
+-Accessiblity is important for people with disabilities\
+-Search engines prioritise accessible websites\
+-The code is easier for the next dev to work on\
 
 
 ## Installation
